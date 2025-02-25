@@ -1,4 +1,4 @@
-# Sattvapath - Walk the Path to Your Inner Peace
+# Psyduck - Click Less, Chill More
 
 > A Chrome extension for digital well-being and mental health that analyzes browsing behavior, detects stress patterns, and provides AI-driven mindfulness recommendations.
 
